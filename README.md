@@ -1,6 +1,6 @@
 # Deep-Neural-Networks-Regression
 In this problem, I used the Kaggle public data repository for getting dataset for this Deep Learning use case. I used the Rossmann Store sales dataset, which is available at www.kaggle.com/c/rossmann-store-sales/data. This was a very popular competition hosted a couple of years ago and has a fairly large dataset. You would need to register with Kaggle and accept the competition rules to be able to download the data.
-From the datasets, i used only train.csv nt store.csv files 
+From the datasets, i used only train.csv and store.csv files 
 
 # Problem Statement
 Rossmann is one of the largest drugstore chains in Germany, with operations across Europe. My task is to predict the sales for a few identified stores on a given day. The first question I needed to ask nyself is: who is the end stakeholder for the business problem and how is he going to utilize the solution?
