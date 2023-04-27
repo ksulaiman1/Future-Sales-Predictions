@@ -1,4 +1,5 @@
 # Deep-Neural-Networks-Regression
+
 In this problem, I used the Kaggle public data repository for getting dataset for this Deep Learning use case. I used the Rossmann Store sales dataset, which is available at www.kaggle.com/c/rossmann-store-sales/data. This was a very popular competition hosted a couple of years ago and has a fairly large dataset. You would need to register with Kaggle and accept the competition rules to be able to download the data.
 From the datasets, i used only train.csv and store.csv files 
 
